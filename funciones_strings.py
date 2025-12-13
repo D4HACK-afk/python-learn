@@ -20,4 +20,4 @@ print(texto.islower())
 #ingresar el dir nos dice en la consola de comandos todas las funciones disponibles por si no las sabes
 
 texto = "que honda "
-print(dir(texto))
+print(dir(texto))sadaasd
