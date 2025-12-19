@@ -7,7 +7,8 @@ aprovados = (True, False, False)
 #modifica directamente se anade
 EdadJuan = (edades[0])
 EdadJuan += 2
-
-Alumnos.insert (0, "Pablo")
+add_Alumnos = Alumnos 
+add_Alumnos +=  ("Pablo",)
 print (Alumnos)
 print (EdadJuan)
+print (add_Alumnos [3])
